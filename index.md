@@ -8,4 +8,4 @@ University of Toronto Scarborough
 Toronto, ON, Canada  
 M1C 1A4  
 
-I'm a cognitive scientist who is interested in the computational basis of knowledge. My research focuses on how we compute knowledge from words, objects, faces, and people. I use neural network models to help us understand how the brain accomplishes these computations.
+I'm a cognitive scientist who is interested in the computational basis of knowledge. My research focuses on how we compute knowledge from words, objects, faces, and people. I use neural network models to help us understand how the brain accomplishes these computations.  
