@@ -1,5 +1,6 @@
 # George S. Cree
-![George Cree Faculty Picture April 2016](https://user-images.githubusercontent.com/38476258/147832426-96ed9dba-e5b5-4078-9c92-5bdd68b21931.jpg)
+![GSC](https://user-images.githubusercontent.com/38476258/147832801-f096556b-50de-4b5a-9327-2beafa275aea.jpeg)
+
 
 Associate Professor  
 Department of Psychology  
